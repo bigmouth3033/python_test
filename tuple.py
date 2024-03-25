@@ -120,6 +120,9 @@ def square_of_letter(number: int) -> None:
 
 
 if __name__ == "__main__":
-    for item in square_of_letter(10):
-        print(item)
+    my_tuple = 1, 2, 4
+
+    new_tuple =  "a", my_tuple, "b"
+
+    print(new_tuple)    
     print("-----")
