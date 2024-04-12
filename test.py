@@ -73,4 +73,20 @@ def list_twice():
 def my_test(my_value : int):
     print(my_value)
 
-my_test()
+
+if __name__ == "__main__":
+
+    my_list = [1 ,"arst", 45]
+
+    print(my_list)
+
+    
+
+
+
+
+
+
+
+
+
